@@ -18,5 +18,9 @@ public class Customer {
 	private String name;
 	private String email;
 
-
+//
+//	private Long id;
+//	private int age;
+//	private String name;
+//	private String email;
 }
